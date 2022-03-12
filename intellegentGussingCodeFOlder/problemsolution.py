@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('intelligentGuessingDataSet.csv',encoding='latin-1')
+df = pd.read_csv('../intelligentGussingData.csv',encoding='latin-1')
 
 
 for index in df.index:
